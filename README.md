@@ -1,2 +1,4 @@
-# India-s-Top-250-IMDB-Movies
-This dashboard analyzes India’s top 250 IMDB movies, featuring 8.848M audience ratings with an 8.19 average, a 2B box office collection, and 56K reviews. Top movies like *Jai Bhim* and *3 Idiots* have ratings of 8.0-8.7. Most films are rated 8.0-8.5. It tracks selections since 1955 and highlights diverse film industries.
+# India's Top 250 IMDB Movies: Insights and Analysis (Interactive Dashboard creation using PoewrBI)
+## Project Objective
+The objective of this project is to analyze and visualize India's top 250 IMDB movies to uncover key insights into audience preferences, rating distributions, box office performance, and industry contributions. It aims to provide an interactive overview of the evolution of Indian cinema, highlighting trends, top-performing films, and the diversity of regional film industries.
+
