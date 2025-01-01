@@ -79,7 +79,7 @@ Actors Report:
 
 
 ## Dashboard Interaction
--<a href="https://drive.google.com/file/d/1ynsuL5Gl6-so4xLgpX358x9ezZkvWQ4d/view?usp=drive_link">Dashboard</a>
+-<a href="https://app.powerbi.com/groups/me/reports/c5005760-262a-4631-bc84-1da630c20680/417359ab46e28aaf32f8?experience=power-bi">Dashboard</a>
 
 ## Dashboard
 ![Screenshot (483)](https://github.com/user-attachments/assets/4feb3274-4b0e-4aa1-a805-a1674a649488)
