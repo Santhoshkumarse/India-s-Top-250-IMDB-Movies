@@ -6,7 +6,8 @@ The objective of this project is to analyze and visualize India's top 250 IMDB m
 -<a href="https://github.com/Santhoshkumarse/India-s-Top-250-IMDB-Movies/blob/main/IMdB_India_Top250.xlsx">Dataset</a>
 
 ## Questions for KPI
-1. Summary Report:
+Summary Report:
+<br>
 •	What is the total number of movies in the dataset?
 <br>
 •	What is the total audience rating count for all movies?
