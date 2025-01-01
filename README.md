@@ -8,12 +8,18 @@ The objective of this project is to analyze and visualize India's top 250 IMDB m
 ## Questions for KPI
 1. Summary Report:
    <br>
-•	What is the total number of movies in the dataset?
-•	What is the total audience rating count for all movies?
-•	What is the average IMDB rating of the movies?
-•	What is the cumulative box office collection of all movies?
-•	How many user reviews have been recorded?
-•	What is the average duration of the movies?
+   •	What is the total number of movies in the dataset?
+   <br>
+   •	What is the total audience rating count for all movies?
+   <br>
+   •	What is the average IMDB rating of the movies?
+   <br>
+   •	What is the cumulative box office collection of all movies?
+   <br>
+   •	How many user reviews have been recorded?
+   <br>
+   •	What is the average duration of the movies?
+   <br>
 3. Genres Report
 •	Which genre has the highest number of movies?
 •	What is the average IMDB rating across different genres?
