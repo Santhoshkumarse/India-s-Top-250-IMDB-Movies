@@ -20,30 +20,54 @@ The objective of this project is to analyze and visualize India's top 250 IMDB m
    <br>
    •	What is the average duration of the movies?
    <br>
-3. Genres Report
-•	Which genre has the highest number of movies?
-•	What is the average IMDB rating across different genres?
-•	Which genre generates the highest box office revenue?
-•	How many user reviews are associated with each genre?
-4. Director Report
-•	Which director has the most movies in the dataset?
-•	What is the average IMDB rating for movies by each director?
-•	Which director’s movies have the highest cumulative box office collection?
-•	How many user reviews are associated with the top directors?
-5. Language Report
-•	Which language is most represented in the dataset?
-•	What is the average IMDB rating of movies in each language?
-•	Which language generates the highest box office collection?
-•	How many user reviews are associated with movies in each language?
-6. Industry Report
-•	Which film industry (e.g., Bollywood, Tollywood) has the highest representation in the dataset?
-•	What is the average IMDB rating across different industries?
-•	Which industry contributes the most to the total box office collection?
-•	How many user reviews are recorded for movies from each industry?
-7. Actors Report
+2. Genres Report:
+   <br>
+   •	Which genre has the highest number of movies?
+   <br>
+   •	What is the average IMDB rating across different genres?
+   <br>
+   •	Which genre generates the highest box office revenue?
+   <br>
+   •	How many user reviews are associated with each genre?
+   <br>
+3. Director Report:
+   <br>
+   •	Which director has the most movies in the dataset?
+   <br>
+   •	What is the average IMDB rating for movies by each director?
+   <br>
+   •	Which director’s movies have the highest cumulative box office collection?
+   <br>
+   •	How many user reviews are associated with the top directors?
+   <br>
+4. Language Report:
+   <br>
+   •	Which language is most represented in the dataset?
+   <br>
+   •	What is the average IMDB rating of movies in each language?
+   <br>
+   •	Which language generates the highest box office collection?
+   <br>
+   •	How many user reviews are associated with movies in each language?
+   <br>
+5. Industry Report:
+   <br>
+   •	Which film industry (e.g., Bollywood, Tollywood) has the highest representation in the dataset?
+   <br>
+   •	What is the average IMDB rating across different industries?
+   <br>
+   •	Which industry contributes the most to the total box office collection?
+   <br>
+   •	How many user reviews are recorded for movies from each industry?
+   <br>
+6. Actors Report:
+   <br>
 •	Which actor appears in the highest number of movies?
+<br>
 •	What is the average IMDB rating for movies featuring each actor?
+<br>
 •	Which actor’s movies have the highest cumulative box office collection?
+<br>
 •	How many user reviews are associated with movies starring the top actors?
 
 
