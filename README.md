@@ -79,7 +79,7 @@ Actors Report:
 
 
 ## Dashboard Interaction
--<a href="https://github.com/Santhoshkumarse/India-s-Top-250-IMDB-Movies/blob/main/Screenshot%20(483).png">Dashboard</a>
+-<a href="https://drive.google.com/file/d/1ynsuL5Gl6-so4xLgpX358x9ezZkvWQ4d/view?usp=drive_link">Dashboard</a>
 
 ## Dashboard
 ![Screenshot (483)](https://github.com/user-attachments/assets/4feb3274-4b0e-4aa1-a805-a1674a649488)
