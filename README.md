@@ -20,7 +20,8 @@ Summary Report:
 <br>
 •	What is the average duration of the movies?
 <br>
-2. Genres Report:
+<br>
+Genres Report:
    <br>
    •	Which genre has the highest number of movies?
    <br>
