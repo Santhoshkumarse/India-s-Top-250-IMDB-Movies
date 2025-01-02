@@ -82,7 +82,18 @@ Actors Report:
 -<a href="https://app.powerbi.com/groups/me/reports/c5005760-262a-4631-bc84-1da630c20680/417359ab46e28aaf32f8?experience=power-bi">Dashboard</a>
 
 ## Dashboard
-![Screenshot (483)](https://github.com/user-attachments/assets/4feb3274-4b0e-4aa1-a805-a1674a649488)
+![Screenshot (483)](https://github.com/user-attachments/assets/71fe084a-d86b-44dc-80bc-7fa0a7c636b5)
+![Screenshot (484)](https://github.com/user-attachments/assets/57206fe4-ca7e-4281-b317-de2f37971c5f)
+![Screenshot (485)](https://github.com/user-attachments/assets/31493b87-c2d6-493b-9783-bd8fe7a20c6b)
+![Screenshot (486)](https://github.com/user-attachments/assets/4511a8a9-07ae-4571-aa41-e831fb083334)
+![Screenshot (487)](https://github.com/user-attachments/assets/15712a9a-df9e-4dca-b8f1-02a530ea6511)
+![Screenshot (488)](https://github.com/user-attachments/assets/a31104a9-63ba-4501-956f-3bc47bc867bd)
+
+
+
+
+
+
 
 ## Process 
 Data Collection and Preparation:
